@@ -1,0 +1,20 @@
+body {
+    background: url(https://static.pexels.com/photos/88212/pexels-photo-88212.jpeg);
+    background-size: 500px;
+}
+
+div {
+    background-color: #4B4B87;
+    border-color: blue;
+    border-width: 4px;
+    border-style: double;
+}
+
+p {
+    color: #E5E536;
+}
+
+span {
+    background: #A42929;
+    color: black;
+}
